@@ -8,4 +8,5 @@ A quick and simple bank management system created using flask, JS and mySQL as p
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/52439642/158005134-17a9b4c8-33a2-48b4-996f-9ab201c54bf2.png">
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/52439642/158005146-e3a0dbc0-f517-4a8e-8086-80ba25d2072a.png">
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/52439642/158005153-e00e3f11-4627-4c04-9c42-4c6844286b86.png">
+
 #
